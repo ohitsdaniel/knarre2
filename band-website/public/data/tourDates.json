@@ -1,0 +1,407 @@
+{
+    "tourDates": [
+        {
+            "date": "October 19, 2018 23:59:59",
+            "city": "Hamburg",
+            "location": "Rote Flora",
+            "context": "mit Hangry",
+            "fb": "https://www.facebook.com/events/254575021867773/"
+        },
+        {
+            "date": "October 26, 2018 23:59:59",
+            "city": "Bad Neustadt",
+            "location": "Juze",
+            "context": "Tour mit Maffai",
+            "fb": "https://www.facebook.com/events/251184142408722/"
+        },
+        {
+            "date": "October 27, 2018 23:59:59",
+            "city": "Gießen",
+            "location": "Prototyp",
+            "context": "Tour mit Maffai",
+            "fb": "https://www.facebook.com/events/491390951378152/"
+        },
+        {
+            "date": "October 28, 2018 23:59:59",
+            "city": "Köln",
+            "location": "AZ",
+            "context": "Tour mit Maffai"
+        },
+        {
+            "date": "October 29, 2018 23:59:59",
+            "city": "Würzburg",
+            "location": "Cairo",
+            "context": "Tour mit Maffai",
+            "fb": "https://www.facebook.com/events/267276817454478/"
+        },
+        {
+            "date": "October 31, 2018 23:59:59",
+            "city": "München",
+            "location": "Kafe Marat",
+            "context": "Tour mit Maffai",
+            "fb": "https://www.facebook.com/events/157709795173383/"
+        },
+        {
+            "date": "November 1, 2018 23:59:59",
+            "city": "Prag",
+            "location": "Eternia Smichov",
+            "context": "Tour mit Maffai",
+            "fb": "https://www.facebook.com/events/681023555615540/"
+        },
+        {
+            "date": "November 2, 2018 23:59:59",
+            "city": "Leipzig",
+            "location": "Secret Gig",
+            "context": "Tour mit Maffai"
+        },
+        {
+            "date": "November 3, 2018 23:59:59",
+            "city": "Berlin",
+            "location": "Mitte - Schreib uns auf FB",
+            "context": "Tour mit Maffai",
+            "fb": "https://www.facebook.com/events/261085714527701/"
+        },
+        {
+            "date": "December 28, 2017 23:59:59",
+            "city": "Bad Karlshafen",
+            "location": "Alte Turnhalle",
+            "context": "FRIENDS 'N BANDS 2017",
+            "fb": "https://www.facebook.com/events/181883722347597/"
+        },
+        {
+            "date": "March 3, 2018 23:59:59",
+            "city": "Leipzig",
+            "location": "B12",
+            "context": "mit Analog Ruins",
+            "fb": "https://www.facebook.com/events/analog-ruins-knarre-at-b12-leipzig/2005479476401796/"
+        },
+        {
+            "date": "June 06, 2018 23:59:59",
+            "city": "Berlin",
+            "location": "Tommy-Weisbecker-Haus",
+            "context": "mit Fabrik Fabrik & No°rd",
+            "fb": "https://www.facebook.com/events/2525924564298378/"
+        },
+        {
+            "date": "July 22, 2018 23:59:59",
+            "city": "Berlin",
+            "location": "Tief",
+            "context": "mit Martha",
+            "fb": "https://www.facebook.com/events/215809292337875/"
+        },
+        {
+            "date": "September 20, 2018 23:59:59",
+            "city": "Berlin",
+            "location": "Sub",
+            "context": "mit Nueva Generación, KAMA"
+        },
+        {
+            "date": "December 08, 2018 23:59:59",
+            "city": "Hannover",
+            "location": "LKA Linden",
+            "context": ""
+        },
+        {
+            "date": "December 14, 2018 23:59:59",
+            "city": "Berlin",
+            "location": "Tief",
+            "context": "Soli Sause für Borderline Europe e.V.",
+            "fb": "https://www.facebook.com/events/194450161492470/"
+        },
+        {
+            "date": "March 30, 2019 23:59:59",
+            "city": "Tangermünde",
+            "location": "Kaminstube",
+            "context": "mit Leto",
+            "fb": "https://www.facebook.com/events/377504136399046/"
+        },
+        {
+            "date": "April 06, 2019 23:59:59",
+            "city": "Berlin",
+            "location": "NTRNT XPLRR",
+            "context": "mit Maffai, Van Urst",
+            "fb": "https://www.facebook.com/events/2254097811472455"
+        },
+        {
+            "date": "May 25, 2019 23:59:59",
+            "city": "Hannover",
+            "location": "UJZ Korn",
+            "context": "Still Loving Freiräume Fest",
+            "fb": "https://www.facebook.com/events/238147717136490/"
+        },
+        {
+            "date": "May 11, 2019 23:59:59",
+            "city": "Berlin",
+            "location": "Zukunft am Ostkreuz",
+            "context": "We Built The World And Miss The Stars Fest VI",
+            "fb": "https://www.facebook.com/events/464893200599441/"
+        },
+        {
+            "date": "July 05, 2019 23:59:59",
+            "city": "Halle",
+            "location": "Hühnermanhattan",
+            "context": "MACH Festival",
+            "fb": "https://www.facebook.com/events/226941218257373/"
+        },
+        {
+            "date": "July 06, 2019 23:59:59",
+            "city": "München",
+            "location": "Kafe Marat",
+            "context": "Freitagskafefest"
+        },
+        {
+            "date": "August 15, 2019 23:59:59",
+            "city": "Berlin",
+            "location": "Schokoladen",
+            "context": "Erai LP Release Show",
+            "fb": "https://www.facebook.com/events/419648521956166/"
+        },
+        {
+            "date": "October 02, 2019 23:59:59",
+            "city": "Nürnberg",
+            "location": "Z-Bau",
+            "context": "Z-Bau Geburtstag",
+            "fb": "https://www.facebook.com/events/931922357143292/"
+        },
+        {
+            "date": "October 03, 2019 23:59:59",
+            "city": "München",
+            "location": "Stattpark OLGA",
+            "context": "mit Elvis de Sade",
+            "fb": "https://www.facebook.com/events/2437891193194662/"
+        },
+        {
+            "date": "October 04, 2019 23:59:59",
+            "city": "Linz",
+            "location": "Secret",
+            "context": "mit Garlik, Cassus, Migal",
+            "fb": "https://www.facebook.com/events/606724219856414/"
+        },
+        {
+            "date": "October 05, 2019 23:59:59",
+            "city": "Wien",
+            "location": "Rhiz",
+            "context": "mit Heckspoiler, Leberzerroze",
+            "fb": "https://www.facebook.com/events/469748773611299/"
+        },
+        {
+            "date": "November 01, 2019 23:59:59",
+            "city": "Berlin",
+            "location": "Schokoladen",
+            "context": "mit Maffai",
+            "fb": "https://www.facebook.com/events/372559066763030/"
+        },
+        {
+            "date": "November 01, 2019 23:59:59",
+            "city": "Dresden",
+            "location": "AZ CONNI",
+            "context": "mit Maffai",
+            "fb": "https://www.facebook.com/events/408777059741848/"
+        },
+        {
+            "date": "December 14, 2019 23:59:59",
+            "city": "Hannover",
+            "location": "UJZ Korn",
+            "context": "mit Auszenseiter, , Loveline",
+            "fb": "https://www.facebook.com/events/777366669377796/"
+        },
+        {
+            "date": "September 30, 2022 23:59:59",
+            "city": "Berlin",
+            "location": "Loge.",
+            "context": "mit Colored Moth, janpalach, superflat",
+            "fb": "https://www.facebook.com/events/1044471719544212/"
+        },
+        {
+            "date": "December 16, 2022 23:59:59",
+            "city": "Berlin",
+            "location": "Loge.",
+            "context": "mit Lobsterbomb, Leep"
+        },
+        {
+            "date": "December 17, 2022 23:59:59",
+            "city": "Cottbus",
+            "location": "Muggefug",
+            "context": "mit Depravation, Pest Hole",
+            "fb": "https://www.facebook.com/events/853444645994668/"
+        },
+        {
+            "date": "December 18, 2022 23:59:59",
+            "city": "Dresden",
+            "location": "Riesa efau.",
+            "context": "mit Slow Jams, Paulina Pank",
+            "fb": "https://www.facebook.com/events/454558463370050/"
+        },
+        {
+            "date": "March 17, 2023 23:59:59",
+            "city": "Hannover",
+            "location": "Stumpf",
+            "context": "mit Goldzilla",
+            "fb": "https://www.facebook.com/events/651094803692652/"
+        },
+        {
+            "date": "September 23, 2023 23:59:59",
+            "city": "Berlin",
+            "location": "Tommy-Weisbecker-Haus",
+            "context": "Drugstore Potse Festival"
+        },
+        {
+            "date": "October 13, 2023 23:59:59",
+            "city": "Leipzig",
+            "location": "Atari",
+            "context": "mit Streit"
+        },
+        {
+            "date": "October 14, 2023 23:59:59",
+            "city": "Berlin",
+            "location": "Loge",
+            "context": "mit Lobsterbomb, Bachratten",
+            "fb": "https://www.facebook.com/events/1353969768881801"
+        },
+        {
+            "date": "October 15, 2023 23:59:59",
+            "city": "Bremen",
+            "location": "KFA (Privat)",
+            "context": "mit Franzi"
+        },
+        {
+            "date": "July 19, 2024 23:59:59",
+            "city": "Mannheim",
+            "location": "JUZ",
+            "context": "mit Gros Enfant Mort"
+        },
+        {
+            "date": "July 20, 2024 23:59:59",
+            "city": "München",
+            "location": "Roody Tanzcafé Giesing",
+            "context": "mit Sport"
+        },
+        {
+            "date": "July 21, 2024 23:59:59",
+            "city": "Trier",
+            "location": "Villa Wuller",
+            "context": "mit Peach Melba"
+        },
+        {
+            "date": "July 22, 2024 23:59:59",
+            "city": "Bamberg",
+            "location": "Ask a punk"
+        },
+        {
+            "date": "July 23, 2024 23:59:59",
+            "city": "Helmbrechts",
+            "location": "Altes Kino"
+        },
+        {
+            "date": "July 24, 2024 23:59:59",
+            "city": "Leipzig",
+            "location": "Atari",
+            "context": "mit Gros Enfant Mort"
+        },
+        {
+            "date": "July 25, 2024 23:59:59",
+            "city": "Bremen",
+            "location": "Eisen"
+        },
+        {
+            "date": "July 26, 2024 23:59:59",
+            "city": "Hannover",
+            "location": "Stumpf"
+        },
+        {
+            "date": "July 27, 2024 23:59:59",
+            "city": "Berlin",
+            "location": "Loge",
+            "context": "mit Schnallo"
+        },
+        {
+            "date": "November 29, 2024 23:59:59",
+            "city": "Berlin",
+            "location": "SO36",
+            "context": "mit AKJ, Morgen Teuer Töten"
+        },
+        {
+            "date": "November 29, 2024 23:59:59",
+            "city": "Dresden",
+            "location": "Schlachthof",
+            "context": "mit AKJ"
+        },
+        {
+            "date": "January 31, 2025 23:59:59",
+            "city": "Braunschweig",
+            "location": "B58",
+            "context": "mit Leto, Tetzlaff"
+        },
+        {
+            "date": "February 1, 2025 23:59:59",
+            "city": "Ottersberg",
+            "location": "AJZ",
+            "context": "mit TI:ED"
+        },
+        {
+            "date": "February 2, 2025 23:59:59",
+            "city": "Wiesbaden",
+            "location": "Schlachthof",
+            "context": "mit Leto"
+        },
+        {
+            "date": "May 16, 2025 23:59:59",
+            "city": "Berlin",
+            "location": "Bechereck",
+            "context": "mit I hate the bouncer, Mel Keller"
+        },
+        {
+            "date": "May 17, 2025 23:59:59",
+            "city": "Hannover",
+            "location": "Stumpf",
+            "context": "Ultimate Screamo Fest"
+        },
+        {
+            "date": "June 13, 2025 23:59:59",
+            "city": "Gera",
+            "location": "Häselburg",
+            "context": "Bieblach Burner"
+        },
+        {
+            "date": "June 14, 2025 23:59:59",
+            "city": "Tangermünde",
+            "location": "Kaminstube",
+            "context": "mit Tiger youth"
+        },
+        {
+            "date": "July 5, 2025 23:59:59",
+            "city": "Dallhausen",
+            "location": "T-Mania Festival"
+        },
+        {
+            "date": "October 24, 2025 23:59:59",
+            "city": "Berlin",
+            "location": "Loge",
+            "context": "mit Leto"
+        },
+        {
+            "date": "October 25, 2025 23:59:59", 
+            "city": "Dresden",
+            "location": "Riesa Efau",
+            "context": "mit Leto"
+        },
+        {
+            "date": "October 30, 2025 23:59:59",
+            "city": "Bremen",
+            "location": "Eisen",
+            "context": "mit Leto"
+        },
+        {
+            "date": "October 31, 2025 23:59:59",
+            "city": "Bonn",
+            "location": "Bla",
+            "context": "mit Leto"
+        },
+        {
+            "date": "November 1, 2025 23:59:59",
+            "city": "Hamburg", 
+            "location": "Molotow",
+            "context": "mit Leto"
+        }
+    ]
+}
