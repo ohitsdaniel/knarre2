@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Mail } from 'lucide-react';
 import Concerts from "@/components/Concerts";
 import { Metadata } from 'next';
+import Links from "@/components/Links";
 
 export const metadata: Metadata = {
   title: 'Knarre - Booking',
@@ -175,6 +176,10 @@ export default function Booking() {
               <li>→ Gespräche über Emo-bilität</li>
             </ul>
           </div>
+        </div>
+
+        <div className=" mb-12">
+          <Links />
         </div>
 
         <div className="text-center">

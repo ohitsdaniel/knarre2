@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Mail } from 'lucide-react';
 import Concerts from '@/components/Concerts';
+import Links from '@/components/Links';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -99,98 +100,7 @@ export default function Home() {
           </a>
         </div>
 
-        <div className="mt-16 text-center p-8 retro-teal">
-          <h3 className="text-3xl font-black mb-6 text-black">LINKS</h3>
-          <div className="grid grid-cols-2 md:grid-cols-5 gap-8">
-            <a
-              href="https://www.instagram.com/knarreausberlin/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group"
-            >
-              <div className="border-4 border-black p-4 group-hover:scale-105 transition-transform">
-                <Image
-                  src="/images/insta.avif"
-                  alt="Instagram"
-                  width={80}
-                  height={80}
-                  className="w-full h-16 object-contain"
-                />
-                <p className="font-black text-black mt-2">INSTA</p>
-              </div>
-            </a>
-            <a
-              href="https://www.facebook.com/knarreausberlin"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group"
-            >
-              <div className="border-4 border-black p-4 group-hover:scale-105 transition-transform">
-                <Image
-                  src="/images/fb.avif"
-                  alt="Facebook"
-                  width={80}
-                  height={80}
-                  className="w-full h-16 object-contain"
-                />
-                <p className="font-black text-black mt-2">FACEBOOK</p>
-              </div>
-
-            </a>
-            <a
-              href="https://knarreausberlin.bandcamp.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group"
-            >
-              <div className="border-4 border-black p-4 group-hover:scale-105 transition-transform">
-                <Image
-                  src="/images/bandcamp.avif"
-                  alt="Bandcamp"
-                  width={80}
-                  height={80}
-                  className="w-full h-16 object-contain"
-                />
-                <p className="font-black text-black mt-2">BANDCAMP</p>
-              </div>
-            </a>
-            <a
-              href="https://open.spotify.com/artist/2knOcWIjZqmLuiskhc9F0L"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group"
-            >
-              <div className="border-4 border-black p-4 group-hover:scale-105 transition-transform">
-                <Image
-                  src="/images/spotify.avif"
-                  alt="Spotify"
-                  width={80}
-                  height={80}
-                  className="w-full h-16 object-contain"
-                />
-                <p className="font-black text-black mt-2">SPOTIFY</p>
-              </div>
-            </a>
-
-            <a
-              href="https://open.spotify.com/artist/2knOcWIjZqmLuiskhc9F0L"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group"
-            >
-              <div className="border-4 border-black p-4 group-hover:scale-105 transition-transform">
-                <Image
-                  src="/images/tl_logo.webp"
-                  alt="Through Love Records"
-                  width={80}
-                  height={80}
-                  className="w-full h-16 object-contain"
-                />
-                <p className="font-black text-black mt-2">THROUGH LOVE</p>
-              </div>
-            </a>
-          </div>
-        </div>
+        <Links />
       </main>
     </div>
   );
