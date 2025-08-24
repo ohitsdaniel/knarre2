@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
+import { ChevronDown, ChevronUp } from 'lucide-react';
 
 interface TourDate {
   date: string;
@@ -28,8 +28,8 @@ export default function Concerts() {
 
   if (!tourData) {
     return (
-      <div className="mb-16 bg-white text-black p-6 border-4 border-black shadow-brutal">
-        <h3 className="text-2xl font-black mb-4">LOADING SHOWS...</h3>
+      <div className="mb-16 text-black p-6 retro-white">
+        <h3 className="text-2xl font-black mb-4">LADE SHOWS...</h3>
       </div>
     );
   }
@@ -75,11 +75,22 @@ export default function Concerts() {
   return (
     <div className="mb-16">
       {/* Upcoming Shows */}
-      {upcomingShows.length > 0 && (
-        <div className="mb-8 bg-white text-black border-4 border-black shadow-brutal">
+
+      {upcomingShows.length === 0 && (
+        <div className="mb-8 text-black retro-white">
           <div className="p-6">
-            <div className="flex justify-between items-center">
-              <h3 className="text-2xl font-black mb-6">KOMMENDE SHOWS</h3>
+            <h3 className="text-2xl font-black mb-6">KOMMENDE SHOWS</h3>
+            <h2 className="text-xl font-black mb-6">Gerade nichts los.</h2>
+            <a href="mailto:knarreausberlin@gmail.com?subject=Knarre buchen!" className="text-xl font-bold text-teal-400 hover:text-black transition-colors">Bucht uns!</a>
+          </div>
+        </div>
+      )}
+
+      {upcomingShows.length > 0 && (
+        <div className="mb-8 text-black retro-white">
+          <div className="p-6">
+            <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4">
+              <h3 className="text-2xl font-black">KOMMENDE SHOWS</h3>
               <a href="mailto:knarreausberlin@gmail.com?subject=Knarre buchen!" className="text-xl font-bold text-teal-400 hover:text-black transition-colors">BUCHT UNS!</a>
             </div>
             <div className="overflow-x-auto">
@@ -105,7 +116,7 @@ export default function Concerts() {
 
       {/* Past Shows - Expandable */}
       {pastShows.length > 0 && (
-        <div className="bg-gray-800 text-white border-4 border-white shadow-brutal-white">
+        <div className="text-white retro-grey">
           <button
             onClick={() => setShowPastShows(!showPastShows)}
             className="w-full p-6 text-left hover:bg-gray-700 transition-colors flex justify-between items-center"

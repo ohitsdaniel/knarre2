@@ -1,7 +1,0 @@
-Placeholder file for images directory.
-
-Add your band's images here:
-- band-photo-1.jpg
-- band-photo-2.jpg
-- logo.png
-- album-covers/
