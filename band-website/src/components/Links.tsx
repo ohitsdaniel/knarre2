@@ -26,7 +26,7 @@ const links = [
     label: "SPOTIFY"
   },
   {
-    href: "https://open.spotify.com/artist/2knOcWIjZqmLuiskhc9F0L",
+    href: "https://throughloverec.com/",
     image: "/images/tl_logo.webp",
     alt: "Through Love Records",
     label: "THROUGH LOVE"
