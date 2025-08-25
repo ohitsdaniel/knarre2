@@ -46,15 +46,15 @@ export default function Links() {
             rel="noopener noreferrer"
             className="group"
           >
-            <div className="border-4 border-black p-4 group-hover:scale-105 transition-transform">
+            <div className="border-4 border-black p-4 group-hover:scale-105 transition-transform text-center">
               <Image
                 src={link.image}
                 alt={link.alt}
                 width={80}
                 height={80}
-                className="w-full h-16 object-contain"
+                className="w-full h-16 object-contain mx-auto"
               />
-              <p className="font-black text-black mt-2">{link.label}</p>
+              <p className="font-black text-black mt-2 text-xs sm:text-sm break-words">{link.label}</p>
             </div>
           </a>
         ))}
